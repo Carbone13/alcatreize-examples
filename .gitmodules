@@ -1,0 +1,4 @@
+[submodule "alcatreize"]
+	path = alcatreize
+	url = https://github.com/Carbone13/alcatreize-godot
+	branch = master
